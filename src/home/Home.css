@@ -1,0 +1,16 @@
+
+#center{
+    text-align: center;
+}
+.sub-div{
+    background-color:white ;
+    width:700px;
+    height:600px;
+    padding: 30px;
+}
+.text1{
+    text-align: 150px left;
+}
+.text2{
+    text-align: left;
+}

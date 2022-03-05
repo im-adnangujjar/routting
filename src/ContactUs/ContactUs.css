@@ -1,0 +1,11 @@
+.paragraph1{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+}
+.paragraph2{
+    display: flex;
+    justify-content: end;
+    align-items: center; 
+    color:blue;
+}
